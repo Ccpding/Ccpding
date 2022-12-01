@@ -3,8 +3,7 @@ using namespace std;
 
 int main() {
 
-  int99
-  9f;
+  int f;
   int s;
   string op;
 
